@@ -38,5 +38,5 @@ Table with Receptive field calculations at each layer:
 
 Note:
 
-In the Inception blocks, the maximum kernel size is 5x5 and hence I picked up 5x5 in receptive field calculation.
+In the Inception blocks, the maximum kernel size is 5x5 and hence 5x5 is used in receptive field calculation.
 
