@@ -1,4 +1,4 @@
-Receptive Field Calculation:
+**Receptive Field Calculation:**
 
 Here are the formulae for calculating Receptive filed:
 	jn = jn-1 * s 		 j0 = 1	(initialized to zero)
