@@ -35,3 +35,8 @@ Based on these formulate, the receptive file calculation for the following netwo
 Table with Receptive field calculations at each layer:
 
 ![Receptive Field Calculations](https://github.com/rednas/EVA/blob/master/session%207/Receptive%20Field%20Calculation.jpg)
+
+Note:
+
+In the Inception blocks, the maximum kernel size is 5x5 and hence I picked up 5x5 in receptive field calculation.
+
