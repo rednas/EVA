@@ -2,7 +2,8 @@
 **Receptive Field Calculation:**
 
 Here are the formulae for calculating Receptive filed:
-*	jn = jn-1 * s 		 j0 = 1	(initialized to zero)
+*	jn = jn-1 * s 		 
+j0 = 1	(initialized to zero)
 
 where
 
@@ -12,7 +13,8 @@ jn-1 is jump of input
 
 s is strides
 
-*	rn = rn-1 +(k-1) * jn-1		 r0=1	(initialized to zero)
+*	rn = rn-1 +(k-1) * jn-1		 
+r0=1	(initialized to zero)
 where
 
 rn is receptive field of output
