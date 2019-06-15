@@ -15,6 +15,6 @@ k is kernel size
 
 Based on these formulate, the receptive file calculation for the following network is given in the table below
 
-![Network](https://github.com/rednas/EVA/blob/master/session%207/Network.jpg)
+![Network]( https://github.com/rednas/EVA/blob/master/session%207/Network.jpg )
 
-![Receptive field calculations](https://github.com/rednas/EVA/blob/master/session%207/Receptive%20Field%20Calculation.jpg)
+![Receptive field calculations]( https://github.com/rednas/EVA/blob/master/session%207/Receptive%20Field%20Calculation.jpg )
